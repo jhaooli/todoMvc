@@ -25,3 +25,7 @@ a list of function about todoMvc http://todomvc.com/examples/vue/
     4.2清除未完成的item项
 
     4.3清除所有的item项
+    
+# 5.将数据保存到本地
+
+    5.1 再次打开时读取之前保存的文本
