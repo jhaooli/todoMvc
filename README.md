@@ -1,5 +1,5 @@
 # todoMvc
-a list of function about todoMvc
+a list of function about todoMvc http://todomvc.com/examples/vue/
 
 
 # 1.接收文本输入
